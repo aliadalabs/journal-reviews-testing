@@ -1,2 +1,3 @@
-# journal-reviews-testing
-Generic repo for testing journal reviews
+# Journal reviews :: Test enviroment
+
+Generic repo for testing reviews workflows
